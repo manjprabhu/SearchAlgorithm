@@ -1,0 +1,2 @@
+rootProject.name = "SearchAlgorithm"
+include ':app'
